@@ -1,4 +1,6 @@
 ---
-title: Tali Jackson
+Title: My github
+Author: Tali Jackson
+
 ---
 
